@@ -14,7 +14,8 @@
   <build_depend>pr2_controllers_msgs</build_depend>
   <build_depend>tf</build_depend>
   <build_depend>urdf</build_depend>
-  <build_depend>urdf_parser_plugin</build_depend>
+  <build_depend>urdf_parser_plugin</build_depend> <!-- for hydro -->
+  <build_depend>urdf_parser</build_depend> <!-- for groovy -->
   <build_depend>collada_parser</build_depend>
   
 </package>
