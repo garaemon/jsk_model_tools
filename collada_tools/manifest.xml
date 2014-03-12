@@ -24,4 +24,6 @@
 
   <!-- jsk ros pkg -->
   <depend package="assimp_devel"/>
+  <rosdep name="urdf_parser" />
+  <rosdep name="tf" />
 </package>
